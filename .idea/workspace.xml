@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d642f1f-6183-4d8a-bbcc-e87c202f32a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/_config.yml" afterDir="false" />
+    <list default="true" id="9d642f1f-6183-4d8a-bbcc-e87c202f32a0" name="Default Changelist" comment="one">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/2018/12/12/Hexo-Theme-Sakura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/2018/12/12/Hexo-Theme-Sakura/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/2020/04/05/Show/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/2020/04/05/Show/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/2020/04/05/WenDang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/2020/04/05/WenDang/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/archives/2018/12/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/archives/2018/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/archives/2020/04/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/archives/2020/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/archives/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/atom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/bangumi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/bangumi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/categories/技术/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/client/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/comment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/comment/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/content.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/css/insight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/donate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/donate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/lab/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/lab/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/links/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/links/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/music/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/rss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/rss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/tags/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/tags/悦读/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/theme-sakura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/theme-sakura/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura/public/video/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura/public/video/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +50,7 @@
   <component name="ProjectId" id="1a6K9OktVprSaV2rWjsBKnEW7Ff" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/qizh/text1906B/django/mydjango" />
@@ -65,7 +93,8 @@
       <workItem from="1586050468928" duration="887000" />
       <workItem from="1586051390103" duration="57000" />
       <workItem from="1586052291676" duration="8653000" />
-      <workItem from="1586067393125" duration="7261000" />
+      <workItem from="1586067393125" duration="12663000" />
+      <workItem from="1586131391939" duration="2943000" />
     </task>
     <task id="LOCAL-00001" summary="one">
       <created>1586081614454</created>
@@ -88,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586084725181</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="one">
+      <created>1586084755776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586084755776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
