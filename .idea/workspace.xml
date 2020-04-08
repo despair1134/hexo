@@ -2,30 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d642f1f-6183-4d8a-bbcc-e87c202f32a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/source/_data/buttfliy.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/.com/.idea/.com.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/.com/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/.com/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/.com/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/.com/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/.com/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/.com/d47b-hrvcwnk0004381.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/.com/timg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/d47b-hrvcwnk0004381.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/hexo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/images/d47b-hrvcwnk0004381.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/images/post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/img/d47b-hrvcwnk0004381.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/img/timg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/snow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/themes/Buttery/source/img/.idea/img.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/themes/Buttery/source/img/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/themes/Buttery/source/img/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/themes/Buttery/source/img/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/themes/Buttery/source/img/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/themes/Buttery/source/img/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_data/buttfliy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_data/butterlfy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/hexo.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/hexo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/themes/Buttery" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/Buttery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/themes/Buttery/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/Buttery/.github/ISSUE_TEMPLATE.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/themes/Buttery/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/Buttery/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/layout.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo-theme-sakura" beforeDir="false" afterPath="$PROJECT_DIR$/hexo-theme-sakura" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/themes/Buttery/scripts/events/replace-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/Buttery/scripts/events/replace-config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +48,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/themes/Buttery/source/imags" />
+    <property name="last_opened_file_path" value="D:/qizh/text1906B/django/mydjango" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,14 +60,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IM\www\hexo\blog\source\images" />
       <recent name="C:\Users\IM\www\hexo\blog\source" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IM\www\hexo\blog\themes\Buttery\source\img" />
+      <recent name="C:\Users\IM\www\hexo\blog\themes\Buttery\source" />
+      <recent name="C:\Users\IM\www\hexo\blog\themes\Buttery" />
+      <recent name="C:\Users\IM\www\hexo\blog\source\personage" />
       <recent name="C:\Users\IM\www\hexo\blog\themes\Buttery\source\imags" />
-      <recent name="C:\Users\IM\www\hexo\blog\source\_data" />
-      <recent name="C:\Users\IM\www\hexo\blog\source\_posts\.com" />
-      <recent name="C:\Users\IM\www\hexo\blog\source\_posts" />
-      <recent name="C:\Users\IM\www\hexo\blog\source\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -111,7 +101,8 @@
       <workItem from="1586131391939" duration="26767000" />
       <workItem from="1586217934275" duration="3500000" />
       <workItem from="1586228393744" duration="629000" />
-      <workItem from="1586250115084" duration="1454000" />
+      <workItem from="1586250115084" duration="7302000" />
+      <workItem from="1586306206172" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="one">
       <created>1586081614454</created>

@@ -106,15 +106,17 @@ mermaid:
 
 # Post info settings
 # ---------------
+
+#头像图片
 avatar:
-  img: /img/avatar.png
+  img: /images/d47b-hrvcwnk0004381.png
   effect: false # 頭像會一直轉圈
 
 # the banner image of index
 index_img:
 
 # if the banner of page not setting,it will show the top_img
-default_top_img: /images/d47b-hrvcwnk0004381.png
+default_top_img: /hexo-personage/images/d47b-hrvcwnk0004381.png
 
 # the banner image of archive page
 archive_img:
@@ -143,8 +145,9 @@ cover:
   # 三個值可配置 left , right , both
   position: both
   # 當沒有設置cover時，默認的封面顯示
+  #替换404页面的图片
   default_cover:
-    - /images/post.jpg
+    - /hexo-personage/images/timg.png
 
 # if the photo link cannot connect,it will show that
 lodding_bg:
@@ -661,6 +664,7 @@ fragment_cache: true
 CDN_USE:
   css:
     - /css/index.css
+
 
   js:
     - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js

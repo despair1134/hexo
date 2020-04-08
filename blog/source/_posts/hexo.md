@@ -41,7 +41,9 @@ hexo init
 ![blog](/hexo-personage/images/d47b-hrvcwnk0004381.png)
 
 
-![blog](/.com//timg.png)
+![blog](/hexo-personage/images/post.jpg)
+
+
 
 
 
