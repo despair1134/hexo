@@ -104,19 +104,32 @@ mermaid:
   # built-in themes: default/forest/dark/neutral
   theme: default
 
+
 # Post info settings
 # ---------------
-
-#头像图片
 avatar:
-  img: /images/d47b-hrvcwnk0004381.png
+  img: /img/avatar.png
   effect: false # 頭像會一直轉圈
 
 # the banner image of index
 index_img:
 
+
+
+#cover作为封面(注意跨域问题,建议使用同源图片)
+#welcome_cover: /img/welcome-cover.jpg
+#
+## 默认文章封面图（随机调用,支持外链）
+#cover: 
+#  - /img/cover.jpg
+#  - /img/welcome-cover.jpg
+##   -/img/screenshot.png
+
 # if the banner of page not setting,it will show the top_img
-default_top_img: /hexo-personage/images/d47b-hrvcwnk0004381.png
+
+
+
+default_top_img: /hexo-personage/img/index.jpg
 
 # the banner image of archive page
 archive_img:
@@ -136,6 +149,13 @@ category_img:
 #   books_img:
 #   games_img:
 
+
+
+
+
+
+
+
 cover:
   # 是否顯示文章封面
   index_enable: true
@@ -145,14 +165,13 @@ cover:
   # 三個值可配置 left , right , both
   position: both
   # 當沒有設置cover時，默認的封面顯示
-  #替换404页面的图片
   default_cover:
-    - /hexo-personage/images/timg.png
+    - /images/post.jpg
 
 # if the photo link cannot connect,it will show that
 lodding_bg:
   flink: /img/friend_404.gif #404後圖片
-  post_page: /img/404.jpg #404後圖片
+  post_page: /images/post.jpg #404後圖片
 #  post: /img/loading.gif ##加載動畫
 
 # A simple 404 page
@@ -348,10 +367,10 @@ reward:
   enable: true
   QR_code:
     - itemlist:
-        img: /img/wechat.jpg
+        img: /images/exceptional4j.jpg
         text: 微信
     - itemlist:
-        img: /img/alipay.jpg
+        img: /images/exceptional.png
         text: 支付寶
 
 # 推薦文章
@@ -664,7 +683,6 @@ fragment_cache: true
 CDN_USE:
   css:
     - /css/index.css
-
 
   js:
     - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js

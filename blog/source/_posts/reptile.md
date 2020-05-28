@@ -1,38 +1,133 @@
+
 ---
-title: Hello World
+title: reptile的简介
+author: despair
+avatar: http://127.0.0.1:8000/static/upload/touxiang.jpg
+authorLink: despair1134
+authorAbout: 一个好奇的人
+authorDesc: 一个好奇的人
+categories: 技术
+date: 2020-4-5 11:21
+comments: true
+tags: 
+ - web
+ - 悦读
+keywords: Sakura
+description: reptile
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
 
-### Create a new post
+##爬虫概念
+```
+爬虫，称网页蜘蛛或网络机器人。
 
-``` bash
-$ hexo new "My New Post"
+爬虫是模拟人操作客户端(浏览器，APP) 向服务器发起网络请求，抓取数据的自动化程序或脚本
+
+
+
+模拟：用爬虫程序伪装出人的行为，避免被服务识别为爬虫程序
+
+客户端：浏览器，APP都可以实现人与服务器之间的交互行为，应用客户端从服务器获取数据
+
+自动化：数据量较小时可以人工获取数据，但往往在公司中爬取的数据量在百万条，千万条，所有要程序自动化获取数据。
+
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+##爬虫语言
+```
+相关语言：PHP，C/C++,Java，Python，GO
 
-### Run server
 
-``` bash
-$ hexo server
+
+    对比：
+    
+    PHP：并发能力差，对多进程支持不好，数据量较大时爬虫销量较低。
+    
+    C/C++:语言效率高，学习成本高，需求量很小
+    
+    Java：可以和python对抗，但是代码臃肿，量大，维护成本高，开发效率低，市场需求比较旺盛
+    
+    python：语法简单，学习成本低，对新生比较友好，良好的生态，大量库和框架的支持的事python爬虫项目，处于爬虫圈的主导地位
+
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
+<h3>爬虫分类</h3>
+```
+通用爬虫
 
-### Generate static files
+聚焦爬虫：
 
-``` bash
-$ hexo generate
+​		增量爬虫
+
+​		深度爬虫
+
+(主要分成两大类，一类是通用爬虫，一类是聚焦爬虫：其他的比如增量爬虫和深度爬虫是属于聚焦爬虫之下的分类)
+
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+###实例：百度，搜狗，Google的搜索引擎
+```
+功能：访问网页->抓取数据->提供检索服务
 
-``` bash
-$ hexo deploy
+工作流：
+
+给定一个起始URL，存于爬取队列中
+
+爬虫程序从队列中取出url，爬取数据
+
+解析爬取数据，获取网页内的所有URL，放入爬取队列
+
+重复第二个步骤
+
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+<h3>爬虫的优缺点<h3>
+
+
+```
+使用搜索引擎获取网站链接：
+主动将URL提交给搜索引擎，(https://ziyuan.baidu.com/linksubmit/url)
+
+在其他热门网站设置友情了解
+
+百度和DNS服务合作，收录新网站
+
+
+
+网站排名：
+根据PageRank值进行排名（流量，点击率）
+
+百度竞价排名，钱多就靠前排
+
+
+
+缺点：
+抓取的内容多数无用
+
+无法精准获取数据
+```
+
+
+<h3>聚焦爬虫<h3>
+
+```
+概念：
+
+聚焦爬虫指针对某一领域待定要求实现的爬虫程序，抓取需要的数据(垂直领域爬取)
+
+
+
+设计思路：
+	确定爬取的url，模拟浏览器请服务器发送请求
+
+​	获取相应数据并进行数据解析
+
+​	将目标数据持久化到本地
+```
+
+
+
+
+
+

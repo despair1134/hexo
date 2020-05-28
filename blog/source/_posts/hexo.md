@@ -1,6 +1,24 @@
 ##hexo配置并部署
 
 
+---
+title: hexo
+author: despair
+avatar: http://127.0.0.1:8000/static/upload/touxiang.jpg
+authorLink: despair1134
+authorAbout: 一个好奇的人
+authorDesc: 一个好奇的人
+categories: 技术
+date: 2020-4-5 11:21
+comments: true
+tags: 
+ - web
+ - 悦读
+keywords: Sakura
+description: hexo
+---
+
+
 ```
 
 首先放出我的博客地址,在fan主题的基础上进行了一些修改和替换，感谢fan主题的作者。
@@ -42,6 +60,9 @@ hexo init
 
 
 ![blog](/hexo-personage/images/post.jpg)
+
+
+![赞赏](/hexo-personage/images/赞赏.jpg)
 
 
 

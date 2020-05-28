@@ -1,5 +1,3 @@
-hexo的安装步骤
-
 
 ---
 title: hexo搭建博客
